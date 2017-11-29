@@ -1,0 +1,17 @@
+﻿  main.c
+  ex6.c
+  ex5.c
+f:\c visual studio\c class\ch\work3\ex5.c(12): warning C4013: 'printf' 未定義; 假設 extern 傳回整數
+  ex4.c
+  ex3.c
+f:\c visual studio\c class\ch\work3\ex3.c(32): warning C4098: 'ex3': 'void' 函式正在傳回值
+  ex2.c
+f:\c visual studio\c class\ch\work3\ex2.c(10): warning C4013: 'printf' 未定義; 假設 extern 傳回整數
+f:\c visual studio\c class\ch\work3\ex2.c(11): warning C4013: 'scanf' 未定義; 假設 extern 傳回整數
+  ex1.c
+  正在產生程式碼...
+f:\c visual studio\c class\ch\work3\ex1.c(19): warning C4716: 'ex1': 必須傳回值
+f:\c visual studio\c class\ch\work3\ex4.c(22): warning C4716: 'ex4': 必須傳回值
+f:\c visual studio\c class\ch\work3\ex6.c(16): warning C4716: 'ex6': 必須傳回值
+  work3.vcxproj -> F:\C Visual Studio\C class\ch\Debug\work3.exe
+  work3.vcxproj -> F:\C Visual Studio\C class\ch\Debug\work3.pdb (Partial PDB)

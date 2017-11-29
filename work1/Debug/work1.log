@@ -1,0 +1,7 @@
+﻿  ex4.c
+  ex3.c
+  正在產生程式碼...
+f:\c visual studio\c class\ch\work1\ex3.c(16): warning C4716: 'ex3': 必須傳回值
+f:\c visual studio\c class\ch\work1\ex4.c(16): warning C4716: 'ex4': 必須傳回值
+  work1.vcxproj -> F:\C Visual Studio\C class\ch\Debug\work1.exe
+  work1.vcxproj -> F:\C Visual Studio\C class\ch\Debug\work1.pdb (Partial PDB)

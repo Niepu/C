@@ -1,0 +1,8 @@
+﻿  ex8.c
+  ex7.c
+  ex6.c
+  ex1.c
+f:\c visual studio\c class\ch\ch3\ex1.c(14): warning C4098: 'ex1': 'void' 函式正在傳回值
+  正在產生程式碼...
+  ch3.vcxproj -> F:\C Visual Studio\C class\ch\Debug\ch3.exe
+  ch3.vcxproj -> F:\C Visual Studio\C class\ch\Debug\ch3.pdb (Partial PDB)

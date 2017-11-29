@@ -1,0 +1,25 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: 中繼目錄 (Debug\) 包含從其他專案 (test1.vcxproj) 共用的檔案。這可能導致錯誤的清除和重建行為。
+  main.c
+  ex9.c
+  ex8.c
+  ex7.c
+  ex6.c
+  ex5.c
+  ex4.c
+  ex3.c
+  ex2.c
+  ex10.c
+  ex1.c
+  正在產生程式碼...
+f:\c visual studio\c class\ch\test1\ex1.c(8): warning C4716: 'ex1': 必須傳回值
+f:\c visual studio\c class\ch\test1\ex10.c(7): warning C4716: 'ex10': 必須傳回值
+f:\c visual studio\c class\ch\test1\ex2.c(7): warning C4716: 'ex2': 必須傳回值
+f:\c visual studio\c class\ch\test1\ex3.c(7): warning C4716: 'ex3': 必須傳回值
+f:\c visual studio\c class\ch\test1\ex4.c(7): warning C4716: 'ex4': 必須傳回值
+f:\c visual studio\c class\ch\test1\ex5.c(7): warning C4716: 'ex5': 必須傳回值
+f:\c visual studio\c class\ch\test1\ex6.c(7): warning C4716: 'ex6': 必須傳回值
+f:\c visual studio\c class\ch\test1\ex7.c(7): warning C4716: 'ex7': 必須傳回值
+f:\c visual studio\c class\ch\test1\ex8.c(7): warning C4716: 'ex8': 必須傳回值
+f:\c visual studio\c class\ch\test1\ex9.c(7): warning C4716: 'ex9': 必須傳回值
+  test1.vcxproj -> F:\C Visual Studio\C class\ch\Debug\mid-term_exam_id14.exe
+  test1.vcxproj -> F:\C Visual Studio\C class\ch\Debug\mid-term_exam_id14.pdb (Partial PDB)

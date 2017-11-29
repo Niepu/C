@@ -1,0 +1,6 @@
+﻿  main.c
+  ex6.c
+  正在產生程式碼...
+f:\c visual studio\c class\ch\work2\ex6.c(81): warning C4716: 'ex6': 必須傳回值
+  work2.vcxproj -> F:\C Visual Studio\C class\ch\Debug\work2.exe
+  work2.vcxproj -> F:\C Visual Studio\C class\ch\Debug\work2.pdb (Partial PDB)

@@ -1,0 +1,19 @@
+﻿  main.c
+f:\c visual studio\c class\ch\ch8\main.c(70): fatal error C1010: 尋找先行編譯標頭檔指示詞時碰到未預期的檔案結尾。您的原始檔中是否忘了加上 '#include "stdafx.h"'?
+  ex8.c
+f:\c visual studio\c class\ch\ch8\ex8.c(7): fatal error C1010: 尋找先行編譯標頭檔指示詞時碰到未預期的檔案結尾。您的原始檔中是否忘了加上 '#include "stdafx.h"'?
+  ex7.c
+f:\c visual studio\c class\ch\ch8\ex7.c(7): fatal error C1010: 尋找先行編譯標頭檔指示詞時碰到未預期的檔案結尾。您的原始檔中是否忘了加上 '#include "stdafx.h"'?
+  ex6.c
+f:\c visual studio\c class\ch\ch8\ex6.c(7): fatal error C1010: 尋找先行編譯標頭檔指示詞時碰到未預期的檔案結尾。您的原始檔中是否忘了加上 '#include "stdafx.h"'?
+  ex5.c
+f:\c visual studio\c class\ch\ch8\ex5.c(16): fatal error C1010: 尋找先行編譯標頭檔指示詞時碰到未預期的檔案結尾。您的原始檔中是否忘了加上 '#include "stdafx.h"'?
+  ex4.c
+f:\c visual studio\c class\ch\ch8\ex4.c(14): fatal error C1010: 尋找先行編譯標頭檔指示詞時碰到未預期的檔案結尾。您的原始檔中是否忘了加上 '#include "stdafx.h"'?
+  ex3.c
+f:\c visual studio\c class\ch\ch8\ex3.c(13): fatal error C1010: 尋找先行編譯標頭檔指示詞時碰到未預期的檔案結尾。您的原始檔中是否忘了加上 '#include "stdafx.h"'?
+  ex2.c
+f:\c visual studio\c class\ch\ch8\ex2.c(18): fatal error C1010: 尋找先行編譯標頭檔指示詞時碰到未預期的檔案結尾。您的原始檔中是否忘了加上 '#include "stdafx.h"'?
+  ex1.c
+f:\c visual studio\c class\ch\ch8\ex1.c(16): fatal error C1010: 尋找先行編譯標頭檔指示詞時碰到未預期的檔案結尾。您的原始檔中是否忘了加上 '#include "stdafx.h"'?
+  正在產生程式碼...

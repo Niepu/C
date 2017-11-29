@@ -1,0 +1,4 @@
+﻿  ex4.c
+f:\c visual studio\c class\ch\work4\ex4.c(31): warning C4716: 'ex4': 必須傳回值
+  work4.vcxproj -> F:\C Visual Studio\C class\ch\Debug\work4.exe
+  work4.vcxproj -> F:\C Visual Studio\C class\ch\Debug\work4.pdb (Partial PDB)
